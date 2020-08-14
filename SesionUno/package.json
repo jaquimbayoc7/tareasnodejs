@@ -1,0 +1,25 @@
+{
+  "name": "tareasnodejs",
+  "version": "1.0.0",
+  "description": "Proyecto con Node y MVC",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon ./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaquimbayoc7/tareasnodejs.git"
+  },
+  "author": "Julian Quimbayo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jaquimbayoc7/tareasnodejs/issues"
+  },
+  "homepage": "https://github.com/jaquimbayoc7/tareasnodejs#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
